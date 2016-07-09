@@ -66,10 +66,6 @@ def main():
     
     
 
-#append corresponding ingredients from the dictionary for each ingredients
-    #the customer said they liked
-#use random.choice() to select a random ingredient
-
 #Provide a main function to call function 1 & 2 in order and passing
 #the list of drink preferences to the drink creation function
 if __name__=='__main__':
